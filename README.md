@@ -18,5 +18,6 @@ graph TB
     A --> C[Tailwind CSS]
     D[Backend] --> E[Node.js/Express]
     D --> F[MongoDB/Firestore]
+    <div align="center"> <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sarfaraz-baloch&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz-baloch&layout=compact&theme=radical&hide_border=true" /> <br/> <img height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfaraz-baloch&theme=radical&hide_border=true" /> </div>
     G[Python] --> H[Django/Flask]
     I[Mobile] --> J[React Native]
