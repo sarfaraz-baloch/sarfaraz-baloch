@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Sarfaraz-baloch</h1>
+<h1 align="center">Hi 👋, I'm Sarfaraz-baloch</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
@@ -8,20 +8,55 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **React, Next.js & Python 🐍**
-- 💻 I build **web apps, full-stack projects, and creative solutions**
+- 🌱 I’m currently learning **React, Next.js & Python**
+- 💻 I build **Full-Stack Web Applications** with modern technologies
 - 📫 Reach me at: **sarfarazkohda321@gmail.com**
 - 🔗 Portfolio & projects: [GitHub](https://github.com/sarfaraz-baloch)
 
 ---
 
-### 🌐 Connect with me
+### 🛠 Tech Stack
 
+#### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+#### Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</p>
+
+#### Tools & Others
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
+### 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/sarfaraz-fida-905370299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/darfaraz.fida?mibextid=zbwkwl" target="_blank">
+  <a href="https://facebook.com/darfaraz.fida" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://github.com/sarfaraz-baloch" target="_blank">
@@ -31,27 +66,7 @@
 
 ---
 
-### 🛠 Languages & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarfaraz-baloch&show_icons=true&count_private=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz-baloch&layout=compact&theme=radical" />
@@ -59,21 +74,12 @@
 
 ---
 
-### 🔥 Streaks & Activity
-
+### 🔥 Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfaraz-baloch&theme=radical" />
 </p>
 
 ---
 
-### ⚡ Fun Section
-
-<p align="center">
-  <img src="https://c.tenor.com/L0v3pKCDZ_EAAAAd/programmer-programming.gif" width="300"/>
-  <img src="https://c.tenor.com/J5RkHLrpqN4AAAAC/working-coding.gif" width="300"/>
-</p>
-
----
-
 <h3 align="center">Thanks for visiting my profile! 💖</h3>
+
