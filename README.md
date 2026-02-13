@@ -1,56 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sarfaraz-baloch</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan 🇵🇰</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Sarfaraz+Baloch;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Python+Expert" alt="Typing SVG" />
+  <br><br>
+  <a href="https://git.io/stars/sarfaraz-baloch"><img src="https://komarev.com/ghpvc/?username=sarfaraz-baloch&label=PROFILE+VIEWS&color=0e75b6&style=flat" height="20" alt="Profile Views" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarfaraz-baloch&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-</p>
+<h3 align="center">Building scalable web apps with modern tech stacks 🚀</h3>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh0czg5czQwbjN6czY1czg5czQwbjN6czY1czg5czQwbjN6czY1czg5czQwbjN6/giphy.gif" width="400" alt="Coding Animation" />
+</div>
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **React, Next.js & Python**
-- 💻 I build **Full-Stack Web Applications**  
-- 📫 Reach me at: **sarfarazkohda321@gmail.com**  
-- 🔗 Portfolio & projects: [GitHub](https://github.com/sarfaraz-baloch)
-
----
-
-### 🛠 Tech Stack
-
-#### 🎨 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" title="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" title="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/>
-</p>
-
-#### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
-</p>
-
-#### 🗄 Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" title="Firebase"/>
-</p>
-
-#### 🛠 Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="50" height="50" title="Postman"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="50" height="50" title="VS Code"/>
-</p>
-
----
-
-### 📊 Skills Timeline
-
-**Frontend:**  
+## 🛠️ **Core Technologies**
+```mermaid
+graph TB
+    A[Frontend] --> B[React/Next.js/TypeScript]
+    A --> C[Tailwind CSS]
+    D[Backend] --> E[Node.js/Express]
+    D --> F[MongoDB/Firestore]
+    G[Python] --> H[Django/Flask]
+    I[Mobile] --> J[React Native]
